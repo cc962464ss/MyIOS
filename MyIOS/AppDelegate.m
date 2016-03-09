@@ -17,7 +17,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   // Override point for customization after application launch.
-  NSLog(@">>>>>>  ");
+  NSLog(@">>>>>>  o hahaha ");
+  NSLog(@"Good good study, Day day up");
   return YES;
 }
 
